@@ -8,7 +8,6 @@ This website was created for bootcamp students going through prework. I learnt t
 
 - [Technologies Used](#technology)
 - [Usage](#usage)
-- [Methodology](#methodology)
 - [Screenshot](#screenshot)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
