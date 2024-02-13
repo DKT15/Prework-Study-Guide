@@ -1,27 +1,50 @@
 # Prework-Study-Guide Website
 
-
 ## Description
 
 This website was created for bootcamp students going through prework. I learnt the basics of HTML, CSS and Javacript by completing this website.
 
+## Table of Contents
 
-## Installation
+- [Technologies Used](#technology)
+- [Usage](#usage)
+- [Methodology](#methodology)
+- [Screenshot](#screenshot)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [About Me](#aboutme)
+- [License](#license)
 
-N/A
+## Technologies Used
 
+- HTML
+- CSS
+- Javascript
 
 ## Usage
 
 To use this Prework Study Guide, you can review the notes in each section.
 
+## Screenshot
 
-## Credits
+![Prework Study Guide Image.](/assets/prework-study-guide-img.jpg)
 
-N/A
+## Deployment
 
+You can access the website with this link.(https://dkt15.github.io/Prework-Study-Guide/)
+
+## Contributing
+
+If you would like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or improvement.
+3. Make changes and submit a pull request.
+
+## 🚀 About Me
+
+[Danté Kellman-Thompson](https://github.com/DKT15)
 
 ## License
 
-Please refer to the LICENSE in the repo.
-
+This project is licensed under the MIT License.
