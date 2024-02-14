@@ -30,7 +30,7 @@ To use this Prework Study Guide, you can review the notes in each section.
 
 ## Deployment
 
-You can access the website with this link.(https://dkt15.github.io/Prework-Study-Guide/)
+You can access the website with this link [here](https://dkt15.github.io/Prework-Study-Guide/)
 
 ## Contributing
 
