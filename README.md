@@ -2,7 +2,7 @@
 
 ## Description
 
-This website was created for bootcamp students going through prework. I learnt the basics of HTML, CSS and Javacript by completing this website.
+This website was created for boot camp students going through prework. I learnt the basics of HTML, CSS and Javascript by completing this website.
 
 ## Table of Contents
 
